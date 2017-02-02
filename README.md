@@ -17,13 +17,22 @@ Open yer ports, hop aboard, and join me swashbuckling network of pirates in sear
 Here be the coin specs:
 
 Ticker: BOAT
+
 Total coins: 500,000,000 Doubloons
+
 Algorithm: HMQ1725 (PoW/PoS)
+
 RPC Port: 33828
 
 Pillaging ends at Block: 750,000
+
 Block Time: 90 seconds
+
 Difficulty Retargeting:
+
 Block Reward: 150 Doubloons
+
 PoS Info: 5% interest
+
 Staking: Minimum 4 hrs, Maximum 1 day
+
