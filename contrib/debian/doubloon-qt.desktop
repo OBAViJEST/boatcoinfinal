@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Doubloon
+Comment=Doubloon P2P Cryptocurrency
+Comment[fr]=Doubloon, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Doubloon, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/doubloon-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/doubloon;
+Categories=Office;
