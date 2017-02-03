@@ -72,7 +72,13 @@ OBJS= \
     obj/luffa.o \
     obj/cubehash.o \
     obj/echo.o \
+    obj/fugue.o \
+    obj/hamsi.o \
+    obj/haval.o \
     obj/simd.o \
+    obj/sha2big.o \
+    obj/shabal.o\
+    obj/whirlpool.o \
     obj/alert.o \
     obj/version.o \
     obj/checkpoints.o \
