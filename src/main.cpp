@@ -975,7 +975,7 @@ int64_t GetProofOfWorkReward(int nHeight, int64_t nFees, uint256 prevHash)
     int64_t nSubsidy = 0;                                                                                 
     if (nHeight == 7)
     {
-        nSubsidy = 1000000 * COIN; //for community
+        nSubsidy = 15000000 * COIN; //for corsairs and bucc
     }
     else if (nHeight <= LAST_POW_BLOCK)
     {
