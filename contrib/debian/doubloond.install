@@ -1,0 +1,2 @@
+debian/bin/doubloond usr/bin
+src/doubloond usr/lib/doubloon
