@@ -104,6 +104,11 @@ OBJS= \
    obj/groestl.o \
     obj/blake.o \
     obj/bmw.o \
+    obj/fugue.o \
+    obj/hamsi.o \
+    obj/haval.o \
+    obj/sha2big.o \
+    obj/shabal.o \
     obj/skein.o \
     obj/keccak.o \
     obj/shavite.o \
@@ -140,6 +145,7 @@ OBJS= \
     obj/util.o \
     obj/wallet.o \
     obj/walletdb.o \
+    obj/whirlpool.o \
     obj/noui.o \
     obj/kernel.o \
     obj/pbkdf2.o \
