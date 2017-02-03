@@ -20,9 +20,7 @@ Ticker: BOAT
 
 Total coins: 500,000,000 Doubloons
 
-Algorithm: HMQ1725 (PoW/PoS)
-
-RPC Port: 33828
+Algorithm: HMQ1725
 
 Pillaging ends at Block: 750,000
 
@@ -36,3 +34,12 @@ PoS Info: 5% interest
 
 Staking: Minimum 4 hrs, Maximum 1 day
 
+PORT
+
+33827 main, 33728 testnet
+
+RPC
+
+33828 main, 33882 test
+
+Premine: 15000000 BOAT for the salty seadogs @ Cryptopia & novaexchange
