@@ -33,7 +33,7 @@ static leveldb::Options GetOptions() {
     return options;
 }
 
-void init_blockindex(leveldb::Options& options, bool fRemoveOld = true) {
+void init_blockindex(leveldb::Options& options, bool fRemoveOld = false) {
     // First time init.
     filesystem::path directory = GetDataDir() / "txleveldb";
 
